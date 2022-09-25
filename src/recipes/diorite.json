@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "*-"
+    ],
+    "key": {
+        "*": {
+            "item": "minecraft:cobblestone"
+        },
+        "-": {
+            "item": "minecraft:nether_quartz"
+        }
+    },
+    "result": {
+        "item": "diorite",
+        "count": 1
+    }
+}

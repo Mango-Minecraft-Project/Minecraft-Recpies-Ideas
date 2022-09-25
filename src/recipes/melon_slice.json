@@ -1,0 +1,8 @@
+{
+    "type": "stonecutting",
+    "ingredient": {
+        "item": "minecraft:melons"
+    },
+    "result": "minecraft:melons_slice",
+    "count": 9
+}

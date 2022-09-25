@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "{oxidized}_copper_{block}"
+        },
+        {
+            "item": "honeycomb"
+        }
+    ],
+    "result": {
+        "item": "waxed_{oxidized}_copper_{block}",
+        "count": 1
+    }
+}

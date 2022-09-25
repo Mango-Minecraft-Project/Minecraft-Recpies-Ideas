@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "***",
+        "*-*",
+        "***"
+    ],
+    "key": {
+        "*": {
+            "item": "gold_block"
+        },
+        "-": {
+            "item": "golden_apple"
+        }
+    },
+    "result": {
+        "item": "enchandted_golden_apple"
+    }
+}

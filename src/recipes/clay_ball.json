@@ -1,0 +1,10 @@
+{
+    "type": "shapeless",
+    "ingredient": [
+        {
+            "item": "minecraft:clay"
+        }
+    ],
+    "result": "minecraft:clay_ball",
+    "count": 4
+}

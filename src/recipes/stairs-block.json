@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "**",
+        "**"
+    ],
+    "key": {
+        "*": {
+            "item": "{block}_stairs"
+        }
+    },
+    "result": {
+        "item": "{block}",
+        "count": 3
+    }
+}

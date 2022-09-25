@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "*-*",
+        "***"
+    ],
+    "key": {
+        "*": {
+            "item": "minecraft:{log}_planks"
+        },
+        "-": {
+            "item": "minecraft:chest"
+        }
+    },
+    "result": {
+        "item": "minecraft:{log}_chest_boat",
+        "count": 1
+    }
+}

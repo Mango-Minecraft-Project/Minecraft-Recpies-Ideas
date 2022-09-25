@@ -1,0 +1,10 @@
+{
+    "type": "shapeless",
+    "ingredient": [
+        {
+            "item": "minecraft:packed_ice"
+        }
+    ],
+    "result": "minecraft:ice",
+    "count": 9
+}

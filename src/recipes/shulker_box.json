@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shapeless",
+    "ingredient": [
+        {
+            "item": "minecraft:chest"
+        },
+        {
+            "item": "minecraft:shulker_shell"
+        },
+        {
+            "item": "minecraft:shulker_shell"
+        }
+    ],
+    "result": {
+        "item": "minecraft:shulker_box",
+        "count": 1
+    }
+}
